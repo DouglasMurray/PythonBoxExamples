@@ -1,0 +1,16 @@
+# ignore PDFs  #
+###################
+*.pdf
+*.PDF
+*.csv
+*.CSV
+BoxFilesFoldersFromAPICall*.*
+odbc.*
+*.log
+Pub_is_from_myyear.py
+*.pyc
+*.txt
+*.tmp
+~*.*
+*.sql
+*.xlsx
